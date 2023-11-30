@@ -82,7 +82,7 @@ The dataset comprises sequentially ordered frames with a naming convention: Vide
             Accuracy: 92%
             Macro Avg (average of precision, recall, and f1-score across classes): 92%
             Weighted Avg (weighted average based on the number of samples in each class): 92%
-* According to the confusion matrix, there were misclassifications in the following manner:
+* According to the confusion matrix, there are misclassifications in the following manner:
   
       For the "notflip" class:
           True Positive (correctly predicted as "notflip"): 300 - 37 = 263
