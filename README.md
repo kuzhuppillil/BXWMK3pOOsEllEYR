@@ -1,4 +1,4 @@
-# MonReader (Computer Vision)
+# MonReader 
 
 # Background:
 
