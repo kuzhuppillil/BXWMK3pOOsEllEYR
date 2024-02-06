@@ -1,13 +1,11 @@
 # MonReader 
 
 # Background:
-
-
-MonReader is a new mobile document digitalization experience for the blind, for researchers and for everyone else in need for fully automatic, highly fast and high-quality document scanning in bulk. It is composed of a mobile app and all the user needs to do is flip pages and everything is handled by MonReader: it detects page flips from low-resolution camera preview and takes a high-resolution picture of the document, recognizing its corners and crops it accordingly, and it dewarps the cropped document to obtain a bird's eye view, sharpens the contrast between the text and the background and finally recognizes the text with formatting kept intact, being further corrected by MonReader's ML powered redactor.
+MonReader is a new mobile document digitalization experience for the blind, for researchers and for everyone else in need for fully automatic, highly fast and high-quality document scanning in bulk. It is composed of a mobile app and all the user needs to do is flip pages and everything is handled by MonReader: **it detects page flips from low-resolution camera preview and takes a high-resolution picture of the document**, recognizing its corners and crops it accordingly, and it dewarps the cropped document to obtain a bird's eye view, sharpens the contrast between the text and the background and finally recognizes the text with formatting kept intact, being further corrected by MonReader's ML powered redactor.
 
 ![image](https://github.com/kuzhuppillil/MonReader/assets/25860818/a97f71f8-2b44-4b74-86a0-a3b53372b5af)
 
-The following solution pertains to the page flip detection aspect integrated into MonReader's overall functionality.
+**Our Objective**: The following solution pertains to the page flip detection aspect of MonReader's overall functionality.
 
 ![image](https://github.com/kuzhuppillil/MonReader/assets/25860818/0d86a22d-ca67-41dd-8647-29153ec3384e)
 
